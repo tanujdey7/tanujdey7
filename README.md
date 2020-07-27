@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a programmer / developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.
+
+### <i> Great Algorithms are the poetry of computation - <b> Francis Sullivan</b></i>
 <!--
 **tanujdey7/tanujdey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
