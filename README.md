@@ -7,7 +7,7 @@ I'm Tanuj Dey a Computer Science Student at L.D. College of Engineering. I Spend
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently Studying my masters from **LDCE**.
+- 🔭 I’m currently doing my masters from **LDCE**.
 - Currently I am learning React JS and Machine Learning
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: tanujdey7@gmail.com.
