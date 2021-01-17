@@ -12,5 +12,3 @@ I'm Tanuj Dey a Computer Science Student at L.D. College of Engineering. I Spend
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: tanujdey7@gmail.com.
 - ⚡ Fun fact: I play video games a lot and listen to Hip-Hop music.
-
-[![Spotify](https://spotify-git-master.tanujdey7.vercel.app/)](https://open.spotify.com/user/tanujdey7)
