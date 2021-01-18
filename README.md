@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujdey7&show_icons=true&locale=en&layout=compact" alt="tanujdey7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujdey7&show_icons=true&locale=en" alt="tanujdey7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujdey7&show_icons=true&locale=en" alt="tanujdey7" width="75%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujdey7&" alt="tanujdey7" /></p>
