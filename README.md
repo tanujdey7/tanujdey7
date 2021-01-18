@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icons/twitter.svg" alt="tanujdey7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icons/linkedin.svg" alt="tanujdey7" height="30" width="40" /></a>
-<a href="https://instagram.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icons/instagram.svg" alt="tanujdey7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icons/hackerrank.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://twitter.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icon/twitter.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icon/linkedin.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://instagram.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icon/instagram.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanujdey7" target="blank"><img align="center" src="https://github.com/tanujdey7/icon/hackerrank.svg" alt="tanujdey7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
