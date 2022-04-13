@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently doing my masters from **LD College of Engineering**
 
-- 🌱 I’m currently learning **React JS, Machine Learning Algorithms**
-
-- 🤝 I’m looking for help with **React JS, JavaScript Frameworks**
+- 🌱 I’m currently learning **ServiceNow**
 
 - 👨‍💻 All of my projects are available at [github.com/tanujdey7](github.com/tanujdey7)
 
