@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujdey7&label=Profile%20views&color=0e75b6&style=flat" alt="tanujdey7" /> </p>
 
-- 🔭 I’m currently doing my masters from **LD College of Engineering**
+- 🔭 I’m currently working as an Associate Software Engineer @Synoptek, India**
 
-- 🌱 I’m currently learning **ServiceNow**
+- 🌱 I’m currently learning **ServiceNow, ITSM, ITOM, Incident Management, Change Management, etc.** 
 
 - 👨‍💻 All of my projects are available at [github.com/tanujdey7](github.com/tanujdey7)
 
